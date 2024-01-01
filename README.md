@@ -9,6 +9,14 @@ via USB connected to a computer.
 So I made this small project when I had some spare time.
 </p>
 
+<h2>Installing</h2>
+<hr/>
+Install using `pip`:
+
+```text
+pip install literadio2-se-usb
+```
+
 <h2>Usage</h2>
 <hr/>
 
